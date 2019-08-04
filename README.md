@@ -1,6 +1,6 @@
 # Barista Full-stack App
 
-### Goal: Create an app that enables the cashier to enter the customer's name and their coffee order. Then add that order to a queue that the baristas can see and give them the ability to mark an order complete. Completed orders should show which barista completed the order and have their own list. App automatically says the customer's name out loud when an order is complete.
+### Goal: Full-stack app that that enables the cashier to enter the customer's name and their coffee order. Then that order is added to a queue that the baristas can see and give them the ability to mark an order complete. Completed orders are on a list show by which barista completed the order. App automatically says the customer's name out loud.
 
 ![alt tag](screenshot.png)
 ![alt tag](screenshot2.png)
