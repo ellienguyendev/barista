@@ -1,0 +1,65 @@
+body {
+  padding: 6% 7%;
+  background-image: url('img/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  line-height: 1;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 18px;
+  word-wrap: break-word;
+}
+
+.jumbotron {
+  padding: 5%;
+  width: 100%;
+  background-color: rgba(68, 33, 13, 0.8);
+  color: #f9c3b4;
+}
+
+form {
+  width: 100%;
+  margin-left: 3%;
+}
+
+button, input{
+  background-color: inherit;
+  width: 18%;
+  float: left;
+  margin-right: 1%;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 2px solid #000;
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+  font-size: 20px;
+  font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+input {
+  padding-left: 10px;
+  width: 94%;
+  float:none;
+  display: block;
+}
+
+button:focus, input:focus{
+    outline: 0px solid #000;
+}
+
+
+.fa-user {
+  margin-right: 5px;
+}
+
+.btn{
+  background-color: #efd9c2;
+  margin-left: 1%;
+  padding: 10px;
+  border: 2px solid #000;
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+  font-size: 15px;
+  font-family: 'Carrois Gothic SC', sans-serif;
+}
